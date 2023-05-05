@@ -1,0 +1,15 @@
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net6.0\FactoryDesignPattern.exe
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net6.0\FactoryDesignPattern.deps.json
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net6.0\FactoryDesignPattern.runtimeconfig.json
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net6.0\FactoryDesignPattern.dll
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net6.0\FactoryDesignPattern.pdb
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net6.0\FactoryDesignPattern.csproj.AssemblyReference.cache
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net6.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net6.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net6.0\FactoryDesignPattern.AssemblyInfo.cs
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net6.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net6.0\FactoryDesignPattern.dll
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net6.0\refint\FactoryDesignPattern.dll
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net6.0\FactoryDesignPattern.pdb
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net6.0\FactoryDesignPattern.genruntimeconfig.cache
+D:\programs-data\visiual_studio\factory\factory\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net6.0\ref\FactoryDesignPattern.dll
