@@ -842,5 +842,6 @@ coverage*[.json, .xml, .info]
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/vs,visualstudio,visualstudiocode,rider,dotnetcore,csharp
->>>>>>> origin/main
 bin/
+*.v2
+*.v1
