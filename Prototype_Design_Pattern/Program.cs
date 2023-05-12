@@ -5,11 +5,13 @@ Rectangle a = new();
 a.LoadData();
 Console.WriteLine($"a -> width = {a.GetWidth()}, height = {a.GetHeight()}");
 
-/*Rectangle b = new();
+/*
+Rectangle b = new();
 b.SetWidth(a.GetWidth());
 b.SetHeight(a.GetHeight());
 Console.WriteLine($"a -> width = {a.GetWidth()}, height = {a.GetHeight()}, hash code = {a.GetHashCode()}");
-Console.WriteLine($"b -> width = {b.GetWidth()}, height = {b.GetHeight()}, hash code = {b.GetHashCode()}");*/
+Console.WriteLine($"b -> width = {b.GetWidth()}, height = {b.GetHeight()}, hash code = {b.GetHashCode()}");
+*/
 
 /*
 Rectangle b = (Rectangle)a.Clone();
@@ -18,6 +20,13 @@ Console.WriteLine($"b -> width = {b.GetWidth()}, height = {b.GetHeight()}, hash 
 Console.WriteLine("----------------------------------------");
 b.SetWidth(1);
 Console.WriteLine($"a -> width = {a.GetWidth()}, height = {a.GetHeight()}, hash code = {a.GetHashCode()}");
-Console.WriteLine($"b -> width = {b.GetWidth()}, height = {b.GetHeight()}, hash code = {b.GetHashCode()}");*/
+Console.WriteLine($"b -> width = {b.GetWidth()}, height = {b.GetHeight()}, hash code = {b.GetHashCode()}");
+*/
 
-
+//ICloneable
+/*
+Circle a = new ();
+a.ridius = 1;
+var b=(Circle)a.Clone();
+Console.WriteLine($"b -> ridius = {b.ridius}, hash code = {b.GetHashCode()}");
+*/
